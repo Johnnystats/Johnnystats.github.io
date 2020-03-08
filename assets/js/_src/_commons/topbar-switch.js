@@ -44,9 +44,6 @@ $(function() {
         $('.access').removeClass('topbar-down');
       }
 
-      if ($('#search-input').is(':focus')) {
-        $('#search-input').blur(); // remove focus
-      }
 
     } else {
       // Scroll Up
