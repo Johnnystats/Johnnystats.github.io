@@ -15,7 +15,7 @@ permalink: /search/
 
 <!— Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="검색어 입력">
+<input type="text" id="search-input" placeholder="그 뭐더라...">
 <ul id="results-container"></ul>
 </div>
 
@@ -29,9 +29,9 @@ permalink: /search/
         resultsContainer: document.getElementById('results-container'),
         json: '{{ site.baseurl }}/search2.json',
         searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
+        noResultsText: '아~~ 그거? 그런건 여기 없수다 !',
         limit: 10,
-        fuzzy: false,
+        fuzzy: true,
         exclude: ['Welcome']
       })
 </script>
