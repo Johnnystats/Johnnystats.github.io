@@ -1,6 +1,12 @@
 title: 돌넷의 서랍
 
-tagline: 통계 마스터를 늘 꿈꾸며...
+bold:
+-통
+-마
+-늘
+
+tagline: |
+	통계 마스터를 늘 꿈꾸며...
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
