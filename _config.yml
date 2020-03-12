@@ -1,6 +1,7 @@
 title: 돌넷의 서랍
 
-tagline: **통**계 **마**스터를 **늘** 꿈꾸며...3
+tagline: 
+	someHTML: <b>통</b>계 <b>마</b>스터를 <b>늘</b> 꿈꾸며...3
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar, bootstrap Jekyll theme with responsive web design and focuses on text presentation.
