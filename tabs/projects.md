@@ -9,7 +9,7 @@ theme: jekyll-theme-dinky
 
 [![YouTube](\assets\img\project\youtube.png "Presentation Link")](https://yonsei-my.sharepoint.com/:p:/g/personal/euijun_choi_o365_yonsei_ac_kr/ESuQPLZBIQdNidqzf2CxHs0BlQYbdKnCMyB4zvkaG2EACw?rtime=A8A6vfLM10g)  
 
-<center><b>↑ <cite>ppt presentation</cite></b></center> 
+**↑ *ppt presentation***
 
 > Data Science Lab 3기의 첫 프로젝트는 EDA 프로젝트로, '데이터 분석 회사'의 인턴의 입장에서  
 > 주어진 데이터셋을 바탕으로 수단과 방법을 가리지 않고 분석 보고서를 작성, 발표하는 것이다.  
