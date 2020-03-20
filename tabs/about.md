@@ -7,8 +7,9 @@ title: About me (지속가능한 최신화)
 
 ## **Johnny Choi**
 
-> 눈물을 흘리며 씨를 뿌리는 자는 기쁨으로 거두리로다   
-> (시 126:5)
+> My flesh and my heart may fail,  
+> but God is the strength of my heart and my  portion forever.   
+> (Psalms 73:26)
 
 ## **Research Interests**
 
