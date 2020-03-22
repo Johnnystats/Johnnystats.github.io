@@ -30,7 +30,7 @@ $$
 
    \def\bold#1{\bf #1}
    
-   \def\df#1#2{\dfrac{#1}{#2}}
+   \def\df#1#2{\frac{#1}{#2}}
    
    \def\si{\sigma}
    
@@ -43,7 +43,7 @@ $$
 $$
 \def\RR{\bf R}
 \def\bold#1{\bf #1}
-\def\df#1#2{\dfrac{#1}{#2}}
+\def\df#1#2{\frac{#1}{#2}}
 \def\si{\sigma}
 \def\dt{\cdot}
 \def\inf{\infty}
