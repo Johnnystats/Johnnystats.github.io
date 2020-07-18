@@ -37,7 +37,7 @@ title: About me (지속가능한 최신화)
 
 - Yonsei University Graduate School
   - Master of Arts in Statistics and Data Science (Spring 2020 ~ Present)
-    - Data Science Lab 3rd (2020 ~ Present)  
+    - Data Science Lab Yonsei 3rd (2020 ~ Present)  
     - TA &nbsp;for 「Introduction to Statistics」 in Summer 2020
     - Department Official Website Renewal Assistant (Jul. 2020 ~ Present)
     - Representative of Department of Statistics and Data Science in Fall 2020
