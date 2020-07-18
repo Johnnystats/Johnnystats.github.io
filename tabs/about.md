@@ -30,7 +30,7 @@ title: About me (지속가능한 최신화)
 ## **Education**
 
 + Yonsei University
-  + Bachelor of Arts in Applied Statistics (2014 ~ 2019), 3.98/4.5
+  + Bachelor of Arts in Applied Statistics (Class Rank: 7/54, 3.98/4.5) / Mar. 2014 ~ Feb. 2020
     - Honors: High Honors in Spring 2019, Honors in Fall 2019
 
 <br>
@@ -39,7 +39,7 @@ title: About me (지속가능한 최신화)
   - Master of Arts in Statistics and Data Science (Spring 2020 ~ Present)
     - Data Science Lab 3rd (2020 ~ Present)  
     - TA  for 「Introduction to Statistics」 in Summer 2020
-    - Department Official Website Reorganization Assistant (2020/07 ~ Present)
+    - Department Official Website Reorganization Assistant (Jul. 2020 ~ Present)
     - Representative of Department of Statistics and Data Science in Fall 2020
     - TA  for 「Mathematical Statistics II」 in Fall 2020
 
@@ -53,7 +53,7 @@ title: About me (지속가능한 최신화)
 
 ## **Job Experiences**
 
-+ Samsung Medical Center - Ophthalmic Clinical Lab, Researcher (2020/7 ~ Present)
++ Samsung Medical Center - Ophthalmic Clinical Lab, Researcher (Jul. 2020 ~ Present)
 
 ## **Projects**
 
