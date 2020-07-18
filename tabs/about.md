@@ -30,12 +30,8 @@ title: About me (지속가능한 최신화)
 ## **Education**
 
 + Yonsei University
-
   + Bachelor of Arts in Applied Statistics (2014 ~ 2019), 3.98/4.5
-
     - Honors: High Honors in Spring 2019, Honors in Fall 2019
-
-      <br>
 - Yonsei University Graduate School
   - Master of Arts in Statistics and Data Science (Spring 2020 ~ Present)
     - Data Science Lab 3rd (2020 ~ Present)  
