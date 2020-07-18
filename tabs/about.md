@@ -25,6 +25,7 @@ title: About me (지속가능한 최신화)
 
 + Biostatistics in Clinical Trials for New Drug Development
 + Deep Learning approaches on Retinal Optical Coherence Tomography Image
++ Recommendation System Implementation
 
 ## **Education**
 
