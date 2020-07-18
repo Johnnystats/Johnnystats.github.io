@@ -53,7 +53,7 @@ title: About me (지속가능한 최신화)
 
 + Samsung Medical Center - Ophthalmic Clinical Lab, Researcher (Jul. 2020 ~ Present)
 
-  &nbsp;&nbsp;&nbsp;&nbsp; Participated in deploying database.
+  >  Participated in deploying database.
 
 ## **Projects**
 
