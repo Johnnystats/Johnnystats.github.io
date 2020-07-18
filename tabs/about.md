@@ -32,8 +32,10 @@ title: About me (지속가능한 최신화)
 + Yonsei University
   + Bachelor of Arts in Applied Statistics (Class Rank: 7/54, 3.98/4.5) / 2014 ~ 2020
     - Honors: High Honors in Spring 2019, Honors in Fall 2019
-  
-  
+
+
+
+
 
 - Yonsei University Graduate School
   - Master of Arts in Statistics and Data Science (Spring 2020 ~ Present)
