@@ -5,7 +5,7 @@ title: About me (지속가능한 최신화)
 
 ![image3](/assets/img/sample/avatar.jpg)
 
-## **Johnny Choi**
+## **Eui Jun Choi (Johnny)**
 
 > My flesh and my heart may fail,  
 > but God is the strength of my heart and my portion forever.   
