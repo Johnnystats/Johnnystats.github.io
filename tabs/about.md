@@ -53,15 +53,16 @@ title: About me (지속가능한 최신화)
 
 ## **Job Experiences**
 
-+ Samsung Medical Center, Ophthalmic Clinical Lab, Researcher (2020/7 ~ Present)
++ Samsung Medical Center - Ophthalmic Clinical Lab, Researcher (2020/7 ~ Present)
 
-## **Official Projects**
+## **Projects**
 
++ 
 + 
 
 ## **Skills**
 
-+ Advanced: SAS, R, Python
++ **Advanced**: SAS, R, Python
 + Latex with Lyx
 + JiniWorks 2.0 for Website Frontend Management
 
