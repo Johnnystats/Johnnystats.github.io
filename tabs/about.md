@@ -30,7 +30,7 @@ title: About me (지속가능한 최신화)
 ## **Education**
 
 + Yonsei University
-  + Bachelor of Arts in Applied Statistics (Class Rank: 7/54, 3.98/4.5) / Mar. 2014 ~ Feb. 2020
+  + Bachelor of Arts in Applied Statistics (Class Rank: 7/54, 3.98/4.5) / 2014 ~ 2020
     - Honors: High Honors in Spring 2019, Honors in Fall 2019
 
 <br>
