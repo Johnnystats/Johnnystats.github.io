@@ -29,18 +29,19 @@ title: About me (지속가능한 최신화)
 ## **Education**
 
 + Yonsei University
-> - Bachelor of Arts in Applied Statistics, 3.98/4.5
->
->   - Honors: High Honors in Spring 2019, Honors in Fall 2019
->
->     <br>
->
-> - Master of Arts in Statistics and Data Science (Spring 2020 ~ Present)
->   - Data Science Lab 3rd (2020 ~ Present)  
->   - TA for 「Introduction to Statistics」 in Summer 2020
->   - Department Official Website Reorganization Assistant (2020/07 ~ Present)
->   - Representative of Grad School in Fall 2020
->   - TA for 「Mathematical Statistics II」 in Fall 2020
+
+  + Bachelor of Arts in Applied Statistics (2014 ~ 2019), 3.98/4.5
+
+    - Honors: High Honors in Spring 2019, Honors in Fall 2019
+
+      <br>
+- Yonsei University Graduate School
+  - Master of Arts in Statistics and Data Science (Spring 2020 ~ Present)
+    - Data Science Lab 3rd (2020 ~ Present)  
+    - TA for 「Introduction to Statistics」 in Summer 2020
+    - Department Official Website Reorganization Assistant (2020/07 ~ Present)
+    - Representative of Grad School in Fall 2020
+    - TA for 「Mathematical Statistics II」 in Fall 2020
 
 ## **Awards**
 
