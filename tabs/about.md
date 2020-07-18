@@ -64,7 +64,7 @@ title: About me (지속가능한 최신화)
 
 ## **Skills**
 
-+ **Advanced**: SAS, R, Python
++ **Advanced**: R, Python
 + Latex with Lyx
 + JiniWorks 2.0 for Website Frontend Management
 
