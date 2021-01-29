@@ -38,6 +38,8 @@ theme: jekyll-theme-dinky
 >
 > [데이터셋 출처](https://www.kaggle.com/joniarroba/noshowappointments)   
 
+---
+
 ### **DSL Session for 4rd - Introduction to Machine Learning**
 
 [![session6](\assets\img\project\session.png "Presentation Link")](https://www.youtube.com/watch?v=u4UQK2z_2jU&feature=emb_logo&ab_channel=YonseiDataScienceLab)  
@@ -49,6 +51,10 @@ theme: jekyll-theme-dinky
 > 
 >
 > 200811 Class
+
+---
+
+**DSL 3rd Completion**
 
 ![DSL-certificate](\assets\img\project\DSL_certificate.png "Certificate")
 

@@ -11,7 +11,7 @@ title: About me
 > but God is the strength of my heart and my portion forever.   
 > (Psalms 73:26)
 
-
+---
 
 ## **Research Interests**
 
@@ -24,15 +24,13 @@ title: About me
 + Survival Analysis
 + Machine Learning
 
-<br/>
-
 #### **Application**
 
 + Biostatistics in Clinical Trials for New Drug Development
 + Pointwise Linear Regression Analysis for Detection of Visual Field Progression
 + Deep Learning Approaches on Retinal Optical Coherence Tomography Image  
 
-
+---
 
 ## **Education**
 
@@ -41,13 +39,12 @@ title: About me
   + Bachelor's degree in Applied Statistics (Class Rank: 7/54, 3.98/4.5) / 2014 ~ 2020
 
     + Honors: High Honors in Spring 2019, Honors in Fall 2019
++ Band Activities: 
+    + Morning Scent(Pop Music Band) 25th (Spring 2014 ~ Spring 2015)
+  + So What(Jazz Band) 19th (Fall 2017)  
+  
 
-    + Band Activities: 
-
-      + Morning Scent(Pop Music Band) 25th (Spring 2014 ~ Spring 2015)
-      + So What(Jazz Band) 19th (Fall 2017)  
-
-      <br/>
+---
 
 + The Hong Kong Polytechnic University (Exchange Student)
 
@@ -57,9 +54,9 @@ title: About me
       + Statistical Inference
       + Regression Analysis
       + Stochastic Process  
-    
-      <br/>
-  
+
+
+---
 
 - Yonsei University Graduate School
   - Master's degree in Statistics and Data Science (Spring 2020 ~ Present)
@@ -68,6 +65,8 @@ title: About me
     - Graduate Student Representative of Department (Fall 2020)
     - TA &nbsp;for 「Mathematical Statistics II」 (Fall 2020)
     - TA &nbsp;for 「Theoretical Statistics I」 (Spring 2021)
+
+---
 
 ## **Papers**
 
@@ -82,17 +81,19 @@ title: About me
   - R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
 
 
+---
+
 ## **Job Experiences**
 
 + Samsung Medical Center, Seoul 
 
   + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present)  
   
-    <br/>
-  
-  >  Participated in deploying database and statistical consulting.
+  >  <br/>Participated in deploying database and statistical consulting.
+  >
+  >  <br/>
 
-
+---
 
 ## **Projects**
 
@@ -116,14 +117,17 @@ title: About me
 
 + BK21 Academic Lunch Seminar (Mar. 2021, in preparation)
 
+---
+
 ## **Skills**
 
 + **Advanced**: R, Python Programming
 + SAS Programming
 + Latex with Lyx
 
-<br/>
+---
 
 ## **Contact Information**
 
 + euijun.choi@yonsei.ac.kr
+
