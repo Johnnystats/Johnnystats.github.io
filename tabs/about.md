@@ -64,7 +64,7 @@ title: About me
   - Master's degree in Statistics and Data Science (Spring 2020 ~ Present)
     - Society Activity: Data Science Lab Yonsei 3rd (2020)  
     - TA &nbsp;for 「Introduction to Statistics」 (Summer 2020, Fall 2020, Winter 2021)
-    - Student Representative of Department of Statistics and Data Science (Fall 2020)
+    - Graduate Student Representative of Department (Fall 2020)
     - TA &nbsp;for 「Mathematical Statistics II」 (Fall 2020)
     - TA &nbsp;for 「Theoretical Statistics I」 (Spring 2021)
 
@@ -90,32 +90,22 @@ title: About me
 
   + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present)
   
-  <br/>
-  
+  >  
+  >
   >  Participated in deploying database and statistical consulting.
+  >
+  >  
 
 
 
 ## **Projects**
 
 + [Department Official Website](https://stat.yonsei.ac.kr/stat/index.do) Renewal Project 
-
   + Graduate Assistant (Jul. 2020)
-
-  <br/>
-
 + [College of Commerce and Economics New Letter [Vol.19]](https://ybe.yonsei.ac.kr/ybe/newsletter/1.do?mode=view&articleNo=108023&article.offset=0&articleLimit=10) 
-
   + Photoshop Assistant (Dec. 2020)
-
-  <br/>
-
 + Department BK21 Official Website Building Project 
-
   + Graduate Assistant (Winter 2021, in progress)
-
-  <br/>
-
 + BK21 Academic Lunch Seminar (Mar. 2021, in preparation)
 
 <br/>
