@@ -24,13 +24,13 @@ title: About me
 + Survival Analysis
 + Machine Learning
 
-
+<br/>
 
 #### **Application**
 
 + Biostatistics in Clinical Trials for New Drug Development
 + Pointwise Linear Regression Analysis for Detection of Visual Field Progression
-+ Deep Learning Approaches on Retinal Optical Coherence Tomography Image
++ Deep Learning Approaches on Retinal Optical Coherence Tomography Image  
 
 
 
@@ -45,7 +45,7 @@ title: About me
     + Band Activities: 
 
       + Morning Scent(Pop Music Band) 25th (Spring 2014 ~ Spring 2015)
-      + So What(Jazz Band) 19th (Fall 2017)
+      + So What(Jazz Band) 19th (Fall 2017)  
 
       
 
@@ -56,7 +56,7 @@ title: About me
       + Probability and Distributions for Risk Management
       + Statistical Inference
       + Regression Analysis
-      + Stochastic Process
+      + Stochastic Process  
     
       
   
@@ -73,7 +73,9 @@ title: About me
 
 + in progress: 
 
-  + Effect of EOBT Length and Risk Factor for Visual Field Progression in Glaucoma 
+  + Effect of EOBT Length and Risk Factor for Visual Field Progression in Glaucoma  
+
+  
 
 + Alternative Report for Master's Thesis:
 
@@ -85,13 +87,11 @@ title: About me
 
 + Samsung Medical Center, Seoul 
 
-  + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present)
+  + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present)  
   
-  >  
-  >
+    
+  
   >  Participated in deploying database and statistical consulting.
-  >
-  >  
 
 
 

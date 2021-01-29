@@ -37,3 +37,15 @@ theme: jekyll-theme-dinky
 > 예약부도 여부에 대한 머신러닝 예측모델을 개발하였다.
 >
 > [데이터셋 출처](https://www.kaggle.com/joniarroba/noshowappointments)   
+
+### **DSL Session for 4rd - Introduction to Machine Learning**
+
+[![DSL-certificate](\assets\img\project\DSL_certificate.png "Presentation Link")](https://www.youtube.com/watch?v=u4UQK2z_2jU&feature=emb_logo&ab_channel=YonseiDataScienceLab)  
+
+**↑ Click ! ↑**
+
+> Data Science Lab 4기를 위한 정규세션 6 - Introduction to Machine Learning
+>
+> 
+>
+> 200811 Class
