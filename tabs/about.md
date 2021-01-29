@@ -24,7 +24,7 @@ title: About me
 + Survival Analysis
 + Machine Learning
 
-<br/>
+
 
 #### **Application**
 
@@ -32,7 +32,7 @@ title: About me
 + Pointwise Linear Regression Analysis for Detection of Visual Field Progression
 + Deep Learning Approaches on Retinal Optical Coherence Tomography Image
 
-<br/>
+
 
 ## **Education**
 
@@ -47,7 +47,7 @@ title: About me
       + Morning Scent(Pop Music Band) 25th (Spring 2014 ~ Spring 2015)
       + So What(Jazz Band) 19th (Fall 2017)
 
-      <br/>
+      
 
 + The Hong Kong Polytechnic University (Exchange Student)
 
@@ -57,8 +57,9 @@ title: About me
       + Statistical Inference
       + Regression Analysis
       + Stochastic Process
-
-  <br/>
+    
+      
+  
 
 - Yonsei University Graduate School
   - Master's degree in Statistics and Data Science (Spring 2020 ~ Present)
@@ -68,15 +69,11 @@ title: About me
     - TA &nbsp;for 「Mathematical Statistics II」 (Fall 2020)
     - TA &nbsp;for 「Theoretical Statistics I」 (Spring 2021)
 
-<br/>
-
 ## **Papers**
 
 + in progress: 
 
   + Effect of EOBT Length and Risk Factor for Visual Field Progression in Glaucoma 
-
-  <br/>
 
 + Alternative Report for Master's Thesis:
 
@@ -86,7 +83,7 @@ title: About me
 
 ## **Job Experiences**
 
-+ Samsung Medical Center, Seoul <br/>
++ Samsung Medical Center, Seoul 
 
   + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present)
   
