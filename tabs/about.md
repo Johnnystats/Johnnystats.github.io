@@ -47,7 +47,7 @@ title: About me
       + Morning Scent(Pop Music Band) 25th (Spring 2014 ~ Spring 2015)
       + So What(Jazz Band) 19th (Fall 2017)  
 
-      
+      <br/>
 
 + The Hong Kong Polytechnic University (Exchange Student)
 
@@ -58,7 +58,7 @@ title: About me
       + Regression Analysis
       + Stochastic Process  
     
-      
+      <br/>
   
 
 - Yonsei University Graduate School
@@ -75,13 +75,12 @@ title: About me
 
   + Effect of EOBT Length and Risk Factor for Visual Field Progression in Glaucoma  
 
-  
+  <br/>
 
 + Alternative Report for Master's Thesis:
 
   - R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
 
-  <br/>
 
 ## **Job Experiences**
 
@@ -89,7 +88,7 @@ title: About me
 
   + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present)  
   
-    
+    <br/>
   
   >  Participated in deploying database and statistical consulting.
 
@@ -98,16 +97,24 @@ title: About me
 ## **Projects**
 
 + [Department Official Website](https://stat.yonsei.ac.kr/stat/index.do) Renewal Project 
+
   + Graduate Assistant (Jul. 2020)
+
+  <br/>
+
 + [College of Commerce and Economics New Letter [Vol.19]](https://ybe.yonsei.ac.kr/ybe/newsletter/1.do?mode=view&articleNo=108023&article.offset=0&articleLimit=10) 
+
   + Photoshop Assistant (Dec. 2020)
+
+  <br/>
+
 + Department BK21 Official Website Building Project 
+
   + Graduate Assistant (Winter 2021, in progress)
+
+  <br/>
+
 + BK21 Academic Lunch Seminar (Mar. 2021, in preparation)
-
-<br/>
-
-
 
 ## **Skills**
 

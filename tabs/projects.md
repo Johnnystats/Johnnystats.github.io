@@ -40,7 +40,7 @@ theme: jekyll-theme-dinky
 
 ### **DSL Session for 4rd - Introduction to Machine Learning**
 
-[![DSL-certificate](\assets\img\project\DSL_certificate.png "Presentation Link")](https://www.youtube.com/watch?v=u4UQK2z_2jU&feature=emb_logo&ab_channel=YonseiDataScienceLab)  
+[![session6](\assets\img\project\session.png "Presentation Link")](https://www.youtube.com/watch?v=u4UQK2z_2jU&feature=emb_logo&ab_channel=YonseiDataScienceLab)  
 
 **↑ Click ! ↑**
 
@@ -49,3 +49,6 @@ theme: jekyll-theme-dinky
 > 
 >
 > 200811 Class
+
+![DSL-certificate](\assets\img\project\DSL_certificate.png "Certificate")
+
