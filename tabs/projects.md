@@ -5,7 +5,7 @@ theme: jekyll-theme-dinky
 
 # **2020**
 
-### **DSL Project 1 - EDA of「Trending YouTube Video Statistics」**
+### **DSL Project 1 - EDA of 「Trending YouTube Video Statistics」**
 
 [![YouTube](\assets\img\project\youtube.png "Presentation Link")](https://yonsei-my.sharepoint.com/:p:/g/personal/euijun_choi_o365_yonsei_ac_kr/ESuQPLZBIQdNidqzf2CxHs0BlQYbdKnCMyB4zvkaG2EACw?rtime=A8A6vfLM10g)  
 
@@ -16,7 +16,7 @@ theme: jekyll-theme-dinky
 > DSL 정규세션 시간에 학습한 EDA, 시각화, 기본 자연어 처리, 웹 크롤링 기법들을 활용해서   
 > 데이터셋을 통해 진행 가능한 사업의 청사진을 제시해야 했다.
 >
-> 우리 팀은 약 7개월간 유튜브 '인기' 영상으로 추천된 영상의 데이터를 바탕으로  
+> 우리 팀(노영지, 류동철, 이재훈, 최의준)은 약 7개월간 유튜브 '인기' 영상으로 추천된 영상의 데이터를 바탕으로  
 > 광고주들을 위한 품목별, 상황별, 실시간 맞춤 광고 타겟팅 가이드 제안을 주 목표로 삼았다.   
 >
 > [데이터셋 출처](https://www.kaggle.com/datasnaek/youtube-new)   
@@ -25,4 +25,14 @@ theme: jekyll-theme-dinky
 
 ### **DSL Project 2 - Free Topic, Free Dataset**
 
-> Data Science Lab 3기의 두 번째 프로젝트는 자유 주제, 자유 데이터셋 프로젝트로 진행되었다. 우리 팀은 병원 진료 예약부도(no-show) 환자들의 데이터를 바탕으로
+[![No-Show](\assets\img\project\project2.png "Presentation Link")](https://yonsei-my.sharepoint.com/:p:/g/personal/euijun_choi_o365_yonsei_ac_kr/EVAxzqoWt_5JhSt6ra2uk04BIQnktxYRynkMoj-M31BxcQ?e=t2tgIP)  
+
+**↑ Click ! ↑**
+
+> Data Science Lab 3기의 두 번째 프로젝트는 자유 주제, 자유 데이터셋 프로젝트로 진행되었다. 
+>
+> 
+>
+>  우리 팀(김승현, 박은지, 류동철, 최의준)은 병원 진료 예약부도(no-show) 환자들의 데이터를 바탕으로 예약부도 여부에 대한 머신러닝 예측 모델을 개발하였다.
+>
+> [데이터셋 출처](https://www.kaggle.com/joniarroba/noshowappointments)   
