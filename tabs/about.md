@@ -35,27 +35,21 @@ title: About me
 ## **Education**
 
 + Yonsei University
-
   + Bachelor's degree in Applied Statistics (Class Rank: 7/54, 3.98/4.5) / 2014 ~ 2020
-
     + Honors: High Honors in Spring 2019, Honors in Fall 2019
-
     + Band Activities: 
       + Morning Scent(Pop Music Band) 25th (Spring 2014 ~ Spring 2015)
       + So What(Jazz Band) 19th (Fall 2017)  
 
-
 ---
 
 + The Hong Kong Polytechnic University (Exchange Student)
-
   + Bachelor's degree in Applied Mathematics (Fall 2018)
     + As an exchange student, I took 4 courses of Applied Mathematics.
       + Probability and Distributions for Risk Management
       + Statistical Inference
       + Regression Analysis
       + Stochastic Process  
-
 
 ---
 
@@ -71,16 +65,10 @@ title: About me
 
 ## **Papers**
 
-+ in progress: 
-
++ In progress: 
   + Effect of EOBT Length and Risk Factor for Visual Field Progression in Glaucoma  
-
-  <br/>
-
 + Alternative Report for Master's Thesis:
-
-  - R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
-
+  + R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
 
 ---
 
@@ -88,34 +76,20 @@ title: About me
 
 + Samsung Medical Center, Seoul 
 
-  + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present)  
-  
-  >  <br/>Participated in deploying database and statistical consulting.
-  >
-  >  <br/>
+  + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present) 
+
+    > Participated in deploying database and statistical consulting.
 
 ---
 
 ## **Projects**
 
 + [Department Official Website](https://stat.yonsei.ac.kr/stat/index.do) Renewal Project 
-
   + Graduate Assistant (Jul. 2020)
-
-  <br/>
-
 + [College of Commerce and Economics New Letter [Vol.19]](https://ybe.yonsei.ac.kr/ybe/newsletter/1.do?mode=view&articleNo=108023&article.offset=0&articleLimit=10) 
-
   + Photoshop Assistant (Dec. 2020)
-
-  <br/>
-
 + Department BK21 Official Website Building Project 
-
   + Graduate Assistant (Winter 2021, in progress)
-
-  <br/>
-
 + BK21 Academic Lunch Seminar (Mar. 2021, in preparation)
 
 ---
