@@ -28,7 +28,7 @@ title: About me
 
 + Biostatistics in Clinical Trials for New Drug Development
 + Pointwise Linear Regression Analysis for Detection of Visual Field Progression
-+ Deep Learning Approaches on Retinal Optical Coherence Tomography Image  
++ Survival Analysis of Qualified Success in Glaucoma Surgery
 
 ---
 
@@ -56,7 +56,7 @@ title: About me
 - Yonsei University Graduate School
   - Master's degree in Statistics and Data Science (Spring 2020 ~ Present)
     - Society Activity: Data Science Lab Yonsei 3rd (2020)  
-    - TA &nbsp;for 「Introduction to Statistics」 (Summer 2020, Fall 2020, Winter 2021, Spring 2021)
+    - TA &nbsp;for 「Introduction to Statistics」 (Summer/Fall 2020, Winter/Spring 2021)
     - Graduate Student Representative of Department (Fall 2020)
     - TA &nbsp;for 「Mathematical Statistics II」 (Fall 2020)
     - TA &nbsp;for 「Theoretical Statistics I」 (Spring 2021)
@@ -82,9 +82,9 @@ title: About me
   
 + National Cancer Center, Goyang-si
 
-  + Particulate Matter & Cancer Research team (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
+  + PM & Cancer Research Team (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
 
-    > Participated in research on the sensitivity in survival analysis results by air pollution exposure according to address scale.
+    > Participated in research on the sensitivity in survival analysis results by air pollution exposure according to address scale in Korea.
 
 ---
 
@@ -102,7 +102,7 @@ title: About me
   
     > Participated in Photoshop works for newsletter.
   
-+  [Department BK21 Official Website](http://bk21-bigdata.yonsei.ac.kr) Building Project (Spring 2021)
++ [Department BK21 Official Website](http://bk21-bigdata.yonsei.ac.kr) Building Project (Spring 2021)
 
   + Graduate Assistant 
 
