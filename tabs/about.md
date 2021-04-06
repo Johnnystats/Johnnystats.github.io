@@ -56,7 +56,7 @@ title: About me
 - Yonsei University Graduate School
   - Master's degree in Statistics and Data Science (Spring 2020 ~ Present)
     - Society Activity: Data Science Lab Yonsei 3rd (2020)  
-    - TA &nbsp;for 「Introduction to Statistics」 (Summer 2020, Fall 2020, Winter 2021)
+    - TA &nbsp;for 「Introduction to Statistics」 (Summer 2020, Fall 2020, Winter 2021, Spring 2021)
     - Graduate Student Representative of Department (Fall 2020)
     - TA &nbsp;for 「Mathematical Statistics II」 (Fall 2020)
     - TA &nbsp;for 「Theoretical Statistics I」 (Spring 2021)
@@ -66,9 +66,9 @@ title: About me
 ## **Papers**
 
 + In progress: 
-  + Effect of EOBT Length and Risk Factor for Visual Field Progression in Glaucoma  
-+ Alternative Report for Master's Thesis:
-  + R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
+  + Border Tissue Morphology Is Associated With Visual Field Progression Pattern in Open–Angle Glaucoma
++ In progress:
+  + Review Paper of R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
 
 ---
 
@@ -76,21 +76,41 @@ title: About me
 
 + Samsung Medical Center, Seoul 
 
-  + Ophthalmic Clinical Lab (Prof. 한종철) - STAT&DS Researcher (Jul. 2020 ~ Present) 
+  + Ophthalmology Glaucoma Lab (Pf. JC Han) STAT&DS Researcher (Jul. 2020 ~ Present) 
 
-    > Participated in deploying database and statistical consulting.
+    > Participated in clinical data management and statistical consulting especially in glaucoma.
+  
++ National Cancer Center, Goyang-si
+
+  + Particulate Matter & Cancer Research team (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
+
+    > Participated in research on the sensitivity in survival analysis results by air pollution exposure according to address scale.
 
 ---
 
 ## **Projects**
 
-+ [Department Official Website](https://stat.yonsei.ac.kr/stat/index.do) Renewal Project 
-  + Graduate Assistant (Jul. 2020)
-+ [College of Commerce and Economics New Letter [Vol.19]](https://ybe.yonsei.ac.kr/ybe/newsletter/1.do?mode=view&articleNo=108023&article.offset=0&articleLimit=10) 
-  + Photoshop Assistant (Dec. 2020)
-+ Department BK21 Official Website Building Project 
-  + Graduate Assistant (Winter 2021, in progress)
-+ BK21 Academic Lunch Seminar (Mar. 2021, in preparation)
++ [Department Official Website](https://stat.yonsei.ac.kr/stat/index.do) Renewal Project (Jul. 2020)
+  
+  + Graduate Assistant 
+  
+    > Participated in design reorganization.
+  
++ [College of Commerce and Economics Newsletter [Vol.19]](https://ybe.yonsei.ac.kr/ybe/newsletter/1.do?mode=view&articleNo=108023&article.offset=0&articleLimit=10) (Dec. 2020)
+  
+  + Graduate Assistant 
+  
+    > Participated in Photoshop works for newsletter.
+  
++  [Department BK21 Official Website](http://bk21-bigdata.yonsei.ac.kr) Building Project (Spring 2021)
+
+  + Graduate Assistant 
+
+    > Participated in overall project management.
+
++ [BK21 Academic Lunch Seminar](https://www.youtube.com/watch?v=R4Hvzjah25k) (Mar. 2021)
+
+  + 의학통계연구: 반복측정자료를 이용한 녹내장 환자 시야 손상 패턴 예측 
 
 ---
 
