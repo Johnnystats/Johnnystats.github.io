@@ -78,13 +78,17 @@ title: About me
 
   + Ophthalmology Glaucoma Lab (Pf. JC Han) STAT&DS Researcher (Jul. 2020 ~ Present) 
 
-    > Participated in clinical data management and statistical consulting especially in glaucoma.
+    > Participated in clinical data management and statistical consulting 
+    >
+    > especially in glaucoma.
   
 + National Cancer Center, Goyang-si
 
   + PM & Cancer Research Team (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
 
-    > Participated in research on the sensitivity in survival analysis results by air pollution exposure according to address scale in Korea.
+    > Participated in research on the sensitivity in survival analysis results by 
+    >
+    > air pollution exposure according to address scale in Korea.
 
 ---
 
