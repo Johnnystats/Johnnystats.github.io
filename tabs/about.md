@@ -81,7 +81,7 @@ title: About me
 
     > Participated in clinical data management and statistical analysis.
     >
-    > - Border Tissue Morphology Is Associated With Visual Field Progression Pattern in Open–Angle Glaucoma
+    > - Association of EOBT Location with VF Progression Pattern in OAG
     > - Survival Analysis of Qualified Success in Glaucoma Surgery
     > - Bland-Altman Analysis of agreement between two different IOP measures
     > - Longitudinal Data Analysis of 24H IOP, BP data in Severe Glaucoma
