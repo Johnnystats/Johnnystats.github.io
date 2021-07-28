@@ -88,7 +88,7 @@ title: About me
   
 + National Cancer Center, Goyang-si
 
-  + **Particulate Matter & Cancer Research Team** (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
+  + **PM & Cancer Research Team** (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
 
     > Participated in research to investigate whether the association between long-term exposure to PM with a diameter of 10 microns and less (PM10) and nitrogen dioxide (NO2) and lung cancer incidence depends on the number of study subjects (or lung cancer cases) and spatial unit of air pollution exposure or not.
     >
