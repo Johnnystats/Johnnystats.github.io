@@ -67,7 +67,7 @@ title: About me
 ## **Papers**
 
 + Alternative format thesis:
-  + Review Paper of R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
+  + Review Paper of Graphical Approaches for Multiple Testing and ‘gMCP-package’
     
 + In progress: 
 
