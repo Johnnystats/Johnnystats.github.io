@@ -20,8 +20,8 @@ title: About me
 + Design of Experiments
 + Nonparametric Statistics
 + Generalized Linear Mixed Model
-+ Longitudinal Data Analysis
 + Survival Analysis
++ Longitudinal Data Analysis
 + Machine Learning
 
 #### **Application**
@@ -56,19 +56,20 @@ title: About me
 - Yonsei University Graduate School
   - Master's degree in Statistics and Data Science (Spring 2020 ~ Present)
     - Society Activity: Data Science Lab Yonsei 3rd (2020)  
-    - TA &nbsp;for 「Introduction to Statistics」 (Summer/Fall 2020, Winter/Spring 2021)
+    - TA &nbsp;for 「Introduction to Statistics」 (Summer/Fall 2020, Winter/Spring/Summer 2021)
     - Graduate Student Representative of Department (Fall 2020)
     - TA &nbsp;for 「Mathematical Statistics II」 (Fall 2020)
     - TA &nbsp;for 「Theoretical Statistics I」 (Spring 2021)
+    - Statistical Consulting Assistant in Institute of Data Science (Fall/Winter 2021)
 
 ---
 
 ## **Papers**
 
-+ In progress: 
-  + Border Tissue Morphology Is Associated With Visual Field Progression Pattern in Open–Angle Glaucoma
-+ In progress:
++ Alternative format thesis:
   + Review Paper of R package - gMCP: Graph Based Multiple Comparison Procedures in Clinical Trial
+    
++ In progress: 
 
 ---
 
@@ -76,23 +77,25 @@ title: About me
 
 + Samsung Medical Center, Seoul 
 
-  + Ophthalmology Glaucoma Lab (Pf. JC Han) STAT&DS Researcher (Jul. 2020 ~ Present) 
+  + **Ophthalmology Glaucoma Lab** (Pf. JC Han) STAT&DS Researcher (Jul. 2020 ~ Present) 
 
-    > Participated in clinical data management and statistical consulting 
+    > Participated in clinical data management and statistical analysis.
     >
-    > especially in glaucoma.
+    > - Border Tissue Morphology Is Associated With Visual Field Progression Pattern in Open–Angle Glaucoma
+    > - Survival Analysis of Qualified Success in Glaucoma Surgery
+    > - Bland-Altman Analysis of agreement between two different IOP measures
+    > - Longitudinal Data Analysis of 24H IOP, BP data in Severe Glaucoma
   
 + National Cancer Center, Goyang-si
 
-  + PM & Cancer Research Team (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
+  + **Particulate Matter & Cancer Research Team** (Pf. SY Kim) Statistical Researcher (Mar. 2021 ~ Present)
 
-    > Participated in research on the sensitivity in survival analysis results by 
+    > Participated in research to investigate whether the association between long-term exposure to PM with a diameter of 10 microns and less (PM10) and nitrogen dioxide (NO2) and lung cancer incidence depends on the number of study subjects (or lung cancer cases) and spatial unit of air pollution exposure or not.
     >
-    > air pollution exposure according to address scale in Korea.
 
 ---
 
-## **Projects**
+## **Projects and Presentations** 
 
 + [Department Official Website](https://stat.yonsei.ac.kr/stat/index.do) Renewal Project (Jul. 2020)
   
@@ -122,7 +125,7 @@ title: About me
 
 + **Advanced**: R, Python Programming
 + SAS Programming
-+ Latex with Lyx
++ Latex via Lyx
 
 ---
 
