@@ -56,11 +56,11 @@ title: About me
 - Yonsei University Graduate School
   - Master's degree in Statistics and Data Science (Spring 2020 ~ Present)
     - Society Activity: Data Science Lab Yonsei 3rd (2020)  
-    - TA &nbsp;for 「Introduction to Statistics」 (Summer/Fall 2020, Winter/Spring/Summer 2021)
+    - TA &nbsp;for 「Introduction to Statistics」 (Summer/Fall 2020, Winter/Spring 2021)
     - Graduate Student Representative of Department (Fall 2020)
     - TA &nbsp;for 「Mathematical Statistics II」 (Fall 2020)
     - TA &nbsp;for 「Theoretical Statistics I」 (Spring 2021)
-    - Statistical Consulting Assistant in Institute of Data Science (Fall/Winter 2021)
+    - Statistical Consulting Assistant in the Institute of Data Science (Fall/Winter 2021)
 
 ---
 
